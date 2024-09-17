@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">test</string>
+    <string name="app_name">Dice Roller App</string>
     <string name="roll_button_text">Roll</string>
     <string name="dice_image_description">Dice</string>
     <string name="roll_dice_button">Roll</string>
